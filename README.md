@@ -4,7 +4,7 @@ Il était une fois MOSH.
 - [x] Super Truc
 - [ ] Un Bidule Rigolo
 - [x] Pourquoi ? 
-- [ ] Parceque la vie 
+- [x] Parceque la vie 
 - [x] Chouupaschupss
 - [x] Dernier Truc
 - [ ] Bon le Vrai Dernier
