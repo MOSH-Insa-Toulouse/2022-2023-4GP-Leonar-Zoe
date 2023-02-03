@@ -3,13 +3,13 @@ Il était une fois MOSH.
 
 - [x] Super Truc
 - [ ] Un Bidule Rigolo
-- [x ] Pourquoi ? 
+- [x] Pourquoi ? 
 - [ ] Parceque la vie 
-- [x ] Chouupaschupss
+- [x] Chouupaschupss
 - [ ] Dernier Truc
 - [ ] Bon le Vrai Dernier
 - [ ] Aller...
-- [ x] Bisous
+- [x] Bisous
 - [ ] ReBisous
 
 ljqGEZUFBjzgefmIUAEB FMUAiegf muiAGEF Mjeghfiu EBF /zegf 
