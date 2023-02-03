@@ -1,15 +1,15 @@
 # 2022-2023-4GP-Leonar-Zoe
 Il était une fois MOSH. 
 
-- [ ] Super Truc
+- [x] Super Truc
 - [ ] Un Bidule Rigolo
-- [ ] Pourquoi ? 
+- [x ] Pourquoi ? 
 - [ ] Parceque la vie 
-- [ ] Chouupaschupss
+- [x ] Chouupaschupss
 - [ ] Dernier Truc
 - [ ] Bon le Vrai Dernier
 - [ ] Aller...
-- [ ] Bisous
+- [ x] Bisous
 - [ ] ReBisous
 
 ljqGEZUFBjzgefmIUAEB FMUAiegf muiAGEF Mjeghfiu EBF /zegf 
