@@ -6,10 +6,11 @@ Il était une fois MOSH.
 - [x] Pourquoi ? 
 - [ ] Parceque la vie 
 - [x] Chouupaschupss
-- [ ] Dernier Truc
+- [x] Dernier Truc
 - [ ] Bon le Vrai Dernier
 - [ ] Aller...
 - [x] Bisous
 - [ ] ReBisous
+- [ ] Y'a toujours des bisous
 
 ljqGEZUFBjzgefmIUAEB FMUAiegf muiAGEF Mjeghfiu EBF /zegf 
