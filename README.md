@@ -4,7 +4,7 @@ Il était une fois MOSH.
 - [x] Super Truc
 - [ ] Un Bidule Rigolo
 - [x] Pourquoi ? 
-- [ ] Parceque la vie 
+- [x] Parceque la vie 
 - [x] Chouupaschupss
 - [x] Dernier Truc
 - [ ] Bon le Vrai Dernier
@@ -13,4 +13,3 @@ Il était une fois MOSH.
 - [ ] ReBisous
 - [ ] Y'a toujours des bisous
 
-ljqGEZUFBjzgefmIUAEB cette ligne faudrait l'enlever nn ? 
