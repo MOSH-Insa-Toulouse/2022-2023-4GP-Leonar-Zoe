@@ -67,7 +67,7 @@
 
   ![BancdeTest](https://user-images.githubusercontent.com/123975808/236404408-0f6d1fc1-4647-4499-9c82-5ccaa70b519a.jpeg)
   
-  Nous avons décider de faire les tests avec deux capteur, le premier recouvert avec un crayon B et le second avec un crayon HB. Les test se faisaient en déposant le capteur sur un des cercles du banc, le plaquer pour qu'il épouse la courbure. Ensuite nous avons récupéré grace à la fonction 'Data Stream' d'Excel 30 secondes de données par rayon de courbure, et ce en extension et en compression, avec les deux capteurs. Après ça nous avons fait une moyenne des valeurs de résistances, en retirant les erreurs statistiques visible. Avec ces données et les caractéristiques du capteur nous avons réalisé une [datasheet]() ce ce capteur. 
+  Nous avons décider de faire les tests avec deux capteur, le premier recouvert avec un crayon B et le second avec un crayon HB. Les test se faisaient en déposant le capteur sur un des cercles du banc, le plaquer pour qu'il épouse la courbure. Ensuite nous avons récupéré grace à la fonction 'Data Stream' d'Excel 30 secondes de données par rayon de courbure, et ce en extension et en compression, avec les deux capteurs. Après ça nous avons fait une moyenne des valeurs de résistances, en retirant les erreurs statistiques visible. Avec ces données et les caractéristiques du capteur nous avons réalisé une [datasheet](https://github.com/MOSH-Insa-Toulouse/2022-2023-4GP-Leonar-Zoe/blob/b27132df8c1d5e796953fb5c742e87faf2610482/Graphite%20Flex%20Sensor.pdf) ce ce capteur. 
   
   ![GraphE](https://user-images.githubusercontent.com/123975808/236405793-955b6743-075a-4e0a-9463-b493ec8aa6d3.png)
 
