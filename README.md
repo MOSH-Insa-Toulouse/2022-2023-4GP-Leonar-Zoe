@@ -9,7 +9,10 @@
 
 # 1 - Description du Projet : 
   
-  Ce projet fait suite à un article de recherche sur les low-tech publié dans 
+  Ce projet fait suite aux travaux de chercheurs dans le domaine des capteurs afin d’évaluer les potentialités de leur technologie low-tech. Il balayera l’ensemble du domaine du capteur jusqu’à la réalisation d’une datasheet et du banc de test associé au capteur.  Vous réaliserez ainsi des capteurs low-tech à base de graphite, en ferez une analyse critique argumentée pour en cerner les potentialités et le cas échéant proposer des solutions d’amélioration.
+  
+  ![Capteur](https://user-images.githubusercontent.com/123975808/236404362-1486d5c3-1306-4a53-af7e-c833399e0547.jpeg)
+
   
 # 2 - Livrable : 
   
@@ -54,10 +57,22 @@
   Une fois le fichier KiCad terminé nous l'avons envoyé à Cathy pour qu'elle puisse nous l'imprimer (un grand merci à elle pour son aide et sa gentilesse d'avoir bien voulu imprimer le PCB une deuxième fois après que notre changement de plan). Une fois la carte imprimer nous avons percer les emplacements pour les pates des composants (1mm pour l'Arduino et 0.8mm pour les composants interieur). S'en est suivi la soudure des composants en suivant la disposition faite sous KiCad. 
   
   ![Montage1](https://user-images.githubusercontent.com/123975808/236276552-98b44f9a-7cd6-4727-ac6d-d53c00d2d67d.jpeg)
+  
+  
   ![Montage2](https://user-images.githubusercontent.com/123975808/236276579-78c67b95-32c5-4712-8774-69f3a374d1e2.jpeg)
   
 # 6 - Banc de Test et Résultats : 
 
   Comme banc de test nous avons utiliser les cercles concentriques à différents rayons imprimé en 3D : 
 
+  ![BancdeTest](https://user-images.githubusercontent.com/123975808/236404408-0f6d1fc1-4647-4499-9c82-5ccaa70b519a.jpeg)
+  
+  Nous avons décider de faire les tests avec deux capteur, le premier recouvert avec un crayon B et le second avec un crayon HB. Les test se faisaient en déposant le capteur sur un des cercles du banc, le plaquer pour qu'il épouse la courbure. Ensuite nous avons récupéré grace à la fonction 'Data Stream' d'Excel 30 secondes de données par rayon de courbure, et ce en extension et en compression, avec les deux capteurs. Après ça nous avons fait une moyenne des valeurs de résistances, en retirant les erreurs statistiques visible. Avec ces données et les caractéristiques du capteur nous avons réalisé une [datasheet]() ce ce capteur. 
+  
+  ![GraphE](https://user-images.githubusercontent.com/123975808/236405793-955b6743-075a-4e0a-9463-b493ec8aa6d3.png)
+
+
+  ![GraphC](https://user-images.githubusercontent.com/123975808/236405827-cc78f656-7445-4c81-9d7e-f9d581ce69b4.png)
+
+  
   
