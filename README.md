@@ -67,12 +67,21 @@
 
   ![BancdeTest](https://user-images.githubusercontent.com/123975808/236404408-0f6d1fc1-4647-4499-9c82-5ccaa70b519a.jpeg)
   
+  La déformation ε dépend de l'épaisseur de la feuille du capteur (nous avons prit pour ça 0.16mm qui est le grammage de feuille 140g/m²) et du rayon de courbure des cercles.
+  
   Nous avons décider de faire les tests avec deux capteur, le premier recouvert avec un crayon B et le second avec un crayon HB. Les test se faisaient en déposant le capteur sur un des cercles du banc, le plaquer pour qu'il épouse la courbure. Ensuite nous avons récupéré grace à la fonction 'Data Stream' d'Excel 30 secondes de données par rayon de courbure, et ce en extension et en compression, avec les deux capteurs. Après ça nous avons fait une moyenne des valeurs de résistances, en retirant les erreurs statistiques visible. Avec ces données et les caractéristiques du capteur nous avons réalisé une [datasheet](https://github.com/MOSH-Insa-Toulouse/2022-2023-4GP-Leonar-Zoe/blob/b27132df8c1d5e796953fb5c742e87faf2610482/Graphite%20Flex%20Sensor.pdf) ce ce capteur. 
   
-  ![GraphE](https://user-images.githubusercontent.com/123975808/236405793-955b6743-075a-4e0a-9463-b493ec8aa6d3.png)
+  ![GraphE](https://user-images.githubusercontent.com/123975808/236485011-56b573e8-6781-4cd4-8a44-37182b184785.png)
 
+  ![GraphC](https://user-images.githubusercontent.com/123975808/236478592-588b4836-8c1d-4880-935d-98b3ab55ce0b.png)
 
-  ![GraphC](https://user-images.githubusercontent.com/123975808/236405827-cc78f656-7445-4c81-9d7e-f9d581ce69b4.png)
-
-  Nous pouvons néanmoins
+  Les deux types de mines ont pour différence leur dureté : 
+    ![EchelleDureté](https://user-images.githubusercontent.com/123975808/236486162-5013dab9-0457-479d-81a8-7f9d7cb55fa0.png)
+    
+  Les mines les plus dures contiennent en grande quantité des liants argileux, et donc moins de graphite, à l'inverse les mines tendres déposent une plus grande quantité de graphite sur le papier. Dans notre cas, cette différence de concentration de graphite sur le capteur va influancer la résistance de celui-ci. C'est pour ça que les courbes avec les mines B ont des valeurs de résistances (ΔR/R0) inférieur à celle de la mine HB qui est plus dure. 
+  
+  
+  
+  Nous pouvons néanmoins émmetre des doutes sur les résultats obtenus. En effet les veleurs de résistances mesurées étaient très instables et le capteur de graphite en lui même était énormément impacté par les tests, les lignes de graphite avaient tendence à s'effacer au fur et à mesure des mesures. De ce fait, une forte dérive a été constaté dans les mesures. 
+  Pour réduire ces effets, une solution pourrait être de trouver un meilleur contact entre le graphite et les pinces crocos, et les empecher de bouger. Aussi, penser une protection pour la ligne de graphite.
   
