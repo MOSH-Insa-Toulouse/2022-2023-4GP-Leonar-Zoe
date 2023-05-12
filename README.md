@@ -78,7 +78,7 @@
   Les deux types de mines ont pour différence leur dureté : 
     ![EchelleDureté](https://user-images.githubusercontent.com/123975808/236486162-5013dab9-0457-479d-81a8-7f9d7cb55fa0.png)
     
-  Les mines les plus dures contiennent en grande quantité des liants argileux, et donc moins de graphite, à l'inverse les mines tendres déposent une plus grande quantité de graphite sur le papier. Dans notre cas, cette différence de concentration de graphite sur le capteur va influancer la résistance de celui-ci. C'est pour ça que les courbes avec les mines B ont des valeurs de résistances (ΔR/R0) inférieur à celle de la mine HB qui est plus dure. 
+  Les mines les plus dures contiennent en grande quantité des liants argileux, et donc moins de graphite, à l'inverse les mines tendres déposent une plus grande quantité de graphite sur le papier. Dans notre cas, cette différence de concentration de graphite sur le capteur va influencer la résistance de celui-ci. C'est pour ça que les courbes avec les mines B ont des valeurs de résistances (ΔR/R0) inférieur à celle de la mine HB qui est plus dure. 
   
   
   
